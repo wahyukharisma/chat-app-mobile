@@ -1,16 +1,20 @@
-# chat_app
+# Chat App Mobile
 
-A new Flutter project.
+A fully functional mobile chat application built with modern technologies, enabling real-time messaging, user authentication, and a sleek user interface. Designed to be lightweight, fast, and secure.
 
-## Getting Started
+## Backend Repository 
+https://github.com/wahyukharisma/chat-app-backend
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Real-time Messaging**: Instant communication with WebSocket integration.
+- **User Authentication**: Secure login and registration system.
+- **Chat Rooms**: Engage in private chats.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Configuration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Setting the base url based on your IP
+
+---
+
+Developed by [Wahyu Kharisma](https://github.com/wahyukharisma) 🚀
